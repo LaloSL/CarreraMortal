@@ -7,6 +7,7 @@ public class Auto {
     private String patente;
     private double combustible=50;
     private ArrayList<Rueda> ruedas;
+    private int prueba; //esto es una prueba
 
     public Auto(String color, String patente) {
         this.color = color;
